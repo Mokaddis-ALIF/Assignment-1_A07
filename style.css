@@ -1,0 +1,129 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size:44px;
+    color: #383838;
+}
+
+#p1{
+    color: #484848;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.container{
+    display: flex;
+    padding-top: 20px;
+}
+.top{
+    margin-top: 10%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    height:80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 136, 0),rgb(243, 65, 34));
+    color:white;
+    font-weight: 700;
+    padding: 10px 40px;
+    margin: 40px 30px;
+    border-radius: 25px;
+}
+.container2{
+    display: flex;
+    padding-top: 10px;
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#second-img{
+    height: 100%;
+    width: 50%;
+    margin: 0px 40px;
+    padding: 0px 40px;
+   
+}
+#p2{
+    color: #484848;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.container3{
+    padding: 0;
+    margin: 0;
+}
+.center{
+    text-align: center;
+}
+.box{
+     width: 33%;    
+    border-radius: 4%;
+    margin-left: 5%;
+    margin-right: 3%;
+    padding: 1%;
+    box-shadow: 5px 10px 8px 10px #888888;
+    margin-bottom: 4%;
+    height: 70%;
+    float: left;
+}
+.box img{
+        width: 100%;
+
+}
+footer{
+    background-color: #2B3856;
+}
+.foot{
+    height: 200px;
+    text-align: center;
+}
+.row{
+         width: 33%;    
+        text-align: center;
+        height: 200px;
+        margin: 90px
+}
+.fb{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 153, 255),rgb(6, 27, 121));
+    color:white;
+    font-weight: 700;
+    padding: 15px 40px;
+    margin: 40px 30px;
+    border-radius: 25px;
+}
+.in{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 85),rgb(121, 6, 21));
+    color:white;
+    font-weight: 700;
+    padding: 15px 40px;
+    margin: 40px 30px;
+    border-radius: 25px;
+}
+.em{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 26, 255),rgb(6, 52, 121));
+    color:white;
+    background-color: whitesmoke;
+    font-weight: 700;
+    padding: 15px 40px;
+    margin: 40px 30px;
+    border-radius: 25px;
+}
+
+
+
+
+
